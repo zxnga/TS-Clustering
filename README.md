@@ -5,7 +5,7 @@ Using derivative, Fourier Transformation and DTW.
 
 Code used in, please cite if it helps you!
 
-`
+```
 @article{zangato2025data,
   title={Data-driven policy mapping for safe RL-based energy management systems},
   author={Zangato, Th{\'e}o and Osmani, Aomar and Alizadeh, Pegah},
@@ -15,4 +15,4 @@ Code used in, please cite if it helps you!
   year={2025},
   publisher={Elsevier}
 }
-`
+```
