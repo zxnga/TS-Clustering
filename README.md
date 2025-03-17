@@ -7,10 +7,7 @@ This project focuses on clustering time-series data using various techniques, in
 - [Overview](#overview)
 - [Techniques Used](#techniques-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
